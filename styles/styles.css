@@ -1,0 +1,85 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #363633;
+    text-decoration: none;
+}
+
+nav {
+    height: 100px;
+    background-color: #FFE900;
+    padding: 0 100px;
+}
+/*........................*/
+.nav-div-top {
+    height: 60%;
+    display: flex;
+}
+.logo {
+    height: 100%;
+    width: 15%;
+}
+.search-bar {
+    height: 100%;
+    width: 55%;
+}
+input {
+    height: 39px;
+    width: 90%;
+}
+.icon-link {
+    height: 100%;
+    width: 30%;
+}
+.icon-link h4 {
+    color: #857F4D;
+}
+.phone-icon {
+   font-size: 30px;
+   margin-left: 15px;
+   color: #857F4D;
+}
+/*........................*/
+.nav-div-bottom {
+    height: 40%;
+    display: flex;
+}
+.nav-div-bottom p {
+    font-size: 14px;
+}
+.categories {
+    height: 100%;
+    width: 15%;
+}
+.main-menu {
+    height: 100%;
+    width: 55%;
+}
+.main-menu p {
+    color: #857F4D;
+}
+.nav-profile {
+    height: 100%;
+    width: 30%;
+}
+
+/*Clases comunes*/
+.ml-10 {
+    margin-left: 10px;
+}
+.ml-20 {
+    margin-left: 20px;
+}
+.d-inline {
+    display: inline;
+}
+.align-center {
+    align-items: center;
+}
+.d-flex {
+    display: flex;
+}
+.justify-flex-end {
+    justify-content: flex-end;
+}
