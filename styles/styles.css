@@ -11,7 +11,7 @@ nav {
     background-color: #FFE900;
     padding: 0 100px;
 }
-/*........................*/
+/*Navbar styles........................*/
 .nav-div-top {
     height: 60%;
     display: flex;
@@ -39,6 +39,12 @@ input {
    font-size: 30px;
    margin-left: 15px;
    color: #857F4D;
+}
+
+/*Carousel and banner styles........................*/
+.section-1 {
+    background-color: purple;
+    height: 85vh; 
 }
 /*........................*/
 .nav-div-bottom {
